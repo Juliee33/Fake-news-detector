@@ -1,0 +1,3 @@
+Actual Class,SVM Pred Fake,SVM Pred Real,DistilBERT Pred Fake,DistilBERT Pred Real
+Fake News,257,1,258,0
+Real News,0,242,0,242

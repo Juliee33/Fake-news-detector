@@ -1,0 +1,93 @@
+/* -------------------------
+   GLOBAL BACKGROUND
+-------------------------- */
+
+body {
+    background-color: #000000;
+    color: #8B0000;
+    font-family: "Courier New", Consolas, monospace;
+}
+
+.main {
+    background: #000000;
+}
+
+/* -------------------------
+   HEADERS
+-------------------------- */
+
+h1 {
+    color: #8B0000;
+    text-align: center;
+    font-size: 42px;
+    letter-spacing: 2px;
+    font-family: "Courier New", Consolas, monospace;
+}
+
+h3 {
+    text-align: center;
+    color: #8B0000;
+}
+
+/* -------------------------
+   TEXT AREA
+-------------------------- */
+
+textarea {
+    background-color: #050505 !important;
+    color: #8B0000 !important;
+    border-radius: 6px !important;
+    border: 1px solid #8B0000 !important;
+    font-family: "Courier New", Consolas, monospace;
+}
+
+/* -------------------------
+   BUTTON STYLE
+-------------------------- */
+
+.stButton>button {
+    background-color: black;
+    color: #8B0000;
+    border-radius: 4px;
+    font-weight: bold;
+    padding: 10px 24px;
+    border: 2px solid #8B0000;
+    font-family: "Courier New", Consolas, monospace;
+}
+
+.stButton>button:hover {
+    background-color: #8B0000;
+    color: black;
+}
+
+/* -------------------------
+   RESULT BOX
+-------------------------- */
+
+.result-box {
+    padding: 20px;
+    border-radius: 4px;
+    text-align: center;
+    font-size: 20px;
+    font-family: "Courier New", Consolas, monospace;
+}
+
+/* -------------------------
+   FAKE RESULT
+-------------------------- */
+
+.fake-result {
+    background-color: #220000;
+    border: 1px solid red;
+    color: red;
+}
+
+/* -------------------------
+   REAL RESULT
+-------------------------- */
+
+.real-result {
+    background-color: #001900;
+    border: 1px solid #32CD32;
+    color: #32CD32;
+}

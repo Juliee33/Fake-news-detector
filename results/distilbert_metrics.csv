@@ -1,0 +1,2 @@
+model,accuracy,precision,recall,f1
+DistilBERT,1.0,1.0,1.0,1.0
