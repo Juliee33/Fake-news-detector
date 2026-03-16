@@ -1,6 +1,7 @@
 streamlit
 pandas
 numpy
-torch
-transformers
 scikit-learn
+transformers
+torch==2.2.2
+sentencepiece
